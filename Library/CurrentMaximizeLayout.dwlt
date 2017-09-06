@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 742, y: 471}
   m_MaxSize: {x: 22012, y: 14042}
   vertical: 1
-  controlID: 513
+  controlID: 8037
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -49,7 +49,7 @@ MonoBehaviour:
     y: 49
     width: 271
     height: 411
-  activeTab: 3
+  activeTab: 1
   branchesTab:
     activeBranchNode:
       Label: 
@@ -63,11 +63,3357 @@ MonoBehaviour:
   changesTab:
     commitBody: 
     commitMessage: 
-    currentBranch: '[unknown]'
-    horizontalScroll: {x: 0, y: 0}
+    currentBranch: No commits yet on master
+    horizontalScroll: {x: 18.007812, y: 331.9922}
     tree:
-      entries: []
-      entryCommitTargets: []
+      entries:
+      - Path: Assembly-CSharp.csproj
+        FullPath: /Users/azabu04/New Unity Project/Assembly-CSharp.csproj
+        ProjectPath: Assembly-CSharp.csproj
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller.meta
+        ProjectPath: Assets/Controller.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/DeathObjectController.cs
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/DeathObjectController.cs
+        ProjectPath: Assets/Controller/DeathObjectController.cs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/DeathObjectController.cs.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/DeathObjectController.cs.meta
+        ProjectPath: Assets/Controller/DeathObjectController.cs.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/FollowPlayer.cs
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/FollowPlayer.cs
+        ProjectPath: Assets/Controller/FollowPlayer.cs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/FollowPlayer.cs.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/FollowPlayer.cs.meta
+        ProjectPath: Assets/Controller/FollowPlayer.cs.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/GameOverController.cs
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/GameOverController.cs
+        ProjectPath: Assets/Controller/GameOverController.cs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/GameOverController.cs.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/GameOverController.cs.meta
+        ProjectPath: Assets/Controller/GameOverController.cs.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/GoalController.cs
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/GoalController.cs
+        ProjectPath: Assets/Controller/GoalController.cs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/GoalController.cs.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/GoalController.cs.meta
+        ProjectPath: Assets/Controller/GoalController.cs.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/PlayerController.cs
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/PlayerController.cs
+        ProjectPath: Assets/Controller/PlayerController.cs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/PlayerController.cs.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/PlayerController.cs.meta
+        ProjectPath: Assets/Controller/PlayerController.cs.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/UIController.cs
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/UIController.cs
+        ProjectPath: Assets/Controller/UIController.cs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Controller/UIController.cs.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Controller/UIController.cs.meta
+        ProjectPath: Assets/Controller/UIController.cs.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor.meta
+        ProjectPath: Assets/Editor.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub.meta
+        ProjectPath: Assets/Editor/GitHub.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/AsyncBridge.Net35.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/AsyncBridge.Net35.dll
+        ProjectPath: Assets/Editor/GitHub/AsyncBridge.Net35.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/AsyncBridge.Net35.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/AsyncBridge.Net35.dll.meta
+        ProjectPath: Assets/Editor/GitHub/AsyncBridge.Net35.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/CREDITS.txt
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/CREDITS.txt
+        ProjectPath: Assets/Editor/GitHub/CREDITS.txt
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/CREDITS.txt.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/CREDITS.txt.meta
+        ProjectPath: Assets/Editor/GitHub/CREDITS.txt.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/EULA.txt
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/EULA.txt
+        ProjectPath: Assets/Editor/GitHub/EULA.txt
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/EULA.txt.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/EULA.txt.meta
+        ProjectPath: Assets/Editor/GitHub/EULA.txt.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Api.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Api.dll
+        ProjectPath: Assets/Editor/GitHub/GitHub.Api.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Api.dll.mdb
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Api.dll.mdb
+        ProjectPath: Assets/Editor/GitHub/GitHub.Api.dll.mdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Api.dll.mdb.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Api.dll.mdb.meta
+        ProjectPath: Assets/Editor/GitHub/GitHub.Api.dll.mdb.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Api.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Api.dll.meta
+        ProjectPath: Assets/Editor/GitHub/GitHub.Api.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Logging.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Logging.dll
+        ProjectPath: Assets/Editor/GitHub/GitHub.Logging.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Logging.dll.mdb
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Logging.dll.mdb
+        ProjectPath: Assets/Editor/GitHub/GitHub.Logging.dll.mdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Logging.dll.mdb.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Logging.dll.mdb.meta
+        ProjectPath: Assets/Editor/GitHub/GitHub.Logging.dll.mdb.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Logging.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Logging.dll.meta
+        ProjectPath: Assets/Editor/GitHub/GitHub.Logging.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Unity.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Unity.dll
+        ProjectPath: Assets/Editor/GitHub/GitHub.Unity.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Unity.dll.mdb
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Unity.dll.mdb
+        ProjectPath: Assets/Editor/GitHub/GitHub.Unity.dll.mdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Unity.dll.mdb.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Unity.dll.mdb.meta
+        ProjectPath: Assets/Editor/GitHub/GitHub.Unity.dll.mdb.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/GitHub.Unity.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/GitHub.Unity.dll.meta
+        ProjectPath: Assets/Editor/GitHub/GitHub.Unity.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/ICSharpCode.SharpZipLib.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/ICSharpCode.SharpZipLib.dll
+        ProjectPath: Assets/Editor/GitHub/ICSharpCode.SharpZipLib.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/ICSharpCode.SharpZipLib.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/ICSharpCode.SharpZipLib.dll.meta
+        ProjectPath: Assets/Editor/GitHub/ICSharpCode.SharpZipLib.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/Mono.Security.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/Mono.Security.dll
+        ProjectPath: Assets/Editor/GitHub/Mono.Security.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/Mono.Security.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/Mono.Security.dll.meta
+        ProjectPath: Assets/Editor/GitHub/Mono.Security.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/Octokit.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/Octokit.dll
+        ProjectPath: Assets/Editor/GitHub/Octokit.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/Octokit.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/Octokit.dll.meta
+        ProjectPath: Assets/Editor/GitHub/Octokit.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources.meta
+        ProjectPath: Assets/Editor/GitHub/PlatformResources.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/mac.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/mac.meta
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/mac.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip.meta
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/mac/git-lfs.zip.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/windows.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/windows.meta
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/windows.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip.meta
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/windows/git-lfs.zip.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/windows/git.zip
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/windows/git.zip
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/windows/git.zip
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/PlatformResources/windows/git.zip.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/PlatformResources/windows/git.zip.meta
+        ProjectPath: Assets/Editor/GitHub/PlatformResources/windows/git.zip.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/Rackspace.Threading.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/Rackspace.Threading.dll
+        ProjectPath: Assets/Editor/GitHub/Rackspace.Threading.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/Rackspace.Threading.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/Rackspace.Threading.dll.meta
+        ProjectPath: Assets/Editor/GitHub/Rackspace.Threading.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/ReadOnlyCollectionsInterfaces.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/ReadOnlyCollectionsInterfaces.dll
+        ProjectPath: Assets/Editor/GitHub/ReadOnlyCollectionsInterfaces.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/ReadOnlyCollectionsInterfaces.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/ReadOnlyCollectionsInterfaces.dll.meta
+        ProjectPath: Assets/Editor/GitHub/ReadOnlyCollectionsInterfaces.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/System.Net.Http.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/System.Net.Http.dll
+        ProjectPath: Assets/Editor/GitHub/System.Net.Http.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/System.Net.Http.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/System.Net.Http.dll.meta
+        ProjectPath: Assets/Editor/GitHub/System.Net.Http.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/System.Threading.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/System.Threading.dll
+        ProjectPath: Assets/Editor/GitHub/System.Threading.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/System.Threading.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/System.Threading.dll.meta
+        ProjectPath: Assets/Editor/GitHub/System.Threading.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/sfw.net.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/sfw.net.dll
+        ProjectPath: Assets/Editor/GitHub/sfw.net.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/sfw.net.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/sfw.net.dll.meta
+        ProjectPath: Assets/Editor/GitHub/sfw.net.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64.meta
+        ProjectPath: Assets/Editor/GitHub/x64.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64/pthreadVC2.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64/pthreadVC2.dll
+        ProjectPath: Assets/Editor/GitHub/x64/pthreadVC2.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64/pthreadVC2.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64/pthreadVC2.dll.meta
+        ProjectPath: Assets/Editor/GitHub/x64/pthreadVC2.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64/sfw_x64.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64/sfw_x64.dll
+        ProjectPath: Assets/Editor/GitHub/x64/sfw_x64.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64/sfw_x64.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64/sfw_x64.dll.meta
+        ProjectPath: Assets/Editor/GitHub/x64/sfw_x64.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64/sfw_x64.pdb
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64/sfw_x64.pdb
+        ProjectPath: Assets/Editor/GitHub/x64/sfw_x64.pdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x64/sfw_x64.pdb.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x64/sfw_x64.pdb.meta
+        ProjectPath: Assets/Editor/GitHub/x64/sfw_x64.pdb.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86.meta
+        ProjectPath: Assets/Editor/GitHub/x86.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86/pthreadVC2.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86/pthreadVC2.dll
+        ProjectPath: Assets/Editor/GitHub/x86/pthreadVC2.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86/pthreadVC2.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86/pthreadVC2.dll.meta
+        ProjectPath: Assets/Editor/GitHub/x86/pthreadVC2.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86/sfw_x86.dll
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86/sfw_x86.dll
+        ProjectPath: Assets/Editor/GitHub/x86/sfw_x86.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86/sfw_x86.dll.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86/sfw_x86.dll.meta
+        ProjectPath: Assets/Editor/GitHub/x86/sfw_x86.dll.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86/sfw_x86.pdb
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86/sfw_x86.pdb
+        ProjectPath: Assets/Editor/GitHub/x86/sfw_x86.pdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Editor/GitHub/x86/sfw_x86.pdb.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Editor/GitHub/x86/sfw_x86.pdb.meta
+        ProjectPath: Assets/Editor/GitHub/x86/sfw_x86.pdb.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials.meta
+        ProjectPath: Assets/Materials.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/deathobject material.mat
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/deathobject material.mat
+        ProjectPath: Assets/Materials/deathobject material.mat
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/deathobject material.mat.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/deathobject material.mat.meta
+        ProjectPath: Assets/Materials/deathobject material.mat.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/floor material.mat
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/floor material.mat
+        ProjectPath: Assets/Materials/floor material.mat
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/floor material.mat.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/floor material.mat.meta
+        ProjectPath: Assets/Materials/floor material.mat.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/goal material.mat
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/goal material.mat
+        ProjectPath: Assets/Materials/goal material.mat
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/goal material.mat.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/goal material.mat.meta
+        ProjectPath: Assets/Materials/goal material.mat.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/wall material.mat
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/wall material.mat
+        ProjectPath: Assets/Materials/wall material.mat
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/Materials/wall material.mat.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/Materials/wall material.mat.meta
+        ProjectPath: Assets/Materials/wall material.mat.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/scenes.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/scenes.meta
+        ProjectPath: Assets/scenes.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/scenes/unity test.unity
+        FullPath: /Users/azabu04/New Unity Project/Assets/scenes/unity test.unity
+        ProjectPath: Assets/scenes/unity test.unity
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Assets/scenes/unity test.unity.meta
+        FullPath: /Users/azabu04/New Unity Project/Assets/scenes/unity test.unity.meta
+        ProjectPath: Assets/scenes/unity test.unity.meta
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/AnnotationManager
+        FullPath: /Users/azabu04/New Unity Project/Library/AnnotationManager
+        ProjectPath: Library/AnnotationManager
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/AssetImportState
+        FullPath: /Users/azabu04/New Unity Project/Library/AssetImportState
+        ProjectPath: Library/AssetImportState
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/BuildPlayer.prefs
+        FullPath: /Users/azabu04/New Unity Project/Library/BuildPlayer.prefs
+        ProjectPath: Library/BuildPlayer.prefs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/BuildSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/Library/BuildSettings.asset
+        ProjectPath: Library/BuildSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/CurrentLayout.dwlt
+        FullPath: /Users/azabu04/New Unity Project/Library/CurrentLayout.dwlt
+        ProjectPath: Library/CurrentLayout.dwlt
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/CurrentMaximizeLayout.dwlt
+        FullPath: /Users/azabu04/New Unity Project/Library/CurrentMaximizeLayout.dwlt
+        ProjectPath: Library/CurrentMaximizeLayout.dwlt
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/EditorInstance.json
+        FullPath: /Users/azabu04/New Unity Project/Library/EditorInstance.json
+        ProjectPath: Library/EditorInstance.json
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/EditorUserBuildSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/Library/EditorUserBuildSettings.asset
+        ProjectPath: Library/EditorUserBuildSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/EditorUserSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/Library/EditorUserSettings.asset
+        ProjectPath: Library/EditorUserSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/InspectorExpandedItems.asset
+        FullPath: /Users/azabu04/New Unity Project/Library/InspectorExpandedItems.asset
+        ProjectPath: Library/InspectorExpandedItems.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/LibraryFormatVersion.txt
+        FullPath: /Users/azabu04/New Unity Project/Library/LibraryFormatVersion.txt
+        ProjectPath: Library/LibraryFormatVersion.txt
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/MonoManager.asset
+        FullPath: /Users/azabu04/New Unity Project/Library/MonoManager.asset
+        ProjectPath: Library/MonoManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ScriptAssemblies/Assembly-CSharp.dll
+        FullPath: /Users/azabu04/New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+        ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        FullPath: /Users/azabu04/New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+        FullPath: /Users/azabu04/New Unity Project/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+        ProjectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ScriptMapper
+        FullPath: /Users/azabu04/New Unity Project/Library/ScriptMapper
+        ProjectPath: Library/ScriptMapper
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache.db
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache.db
+        ProjectPath: Library/ShaderCache.db
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/1/19d3e1420905436253deb6433e24b36d.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/1/19d3e1420905436253deb6433e24b36d.bin
+        ProjectPath: Library/ShaderCache/1/19d3e1420905436253deb6433e24b36d.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/2/21a2589a1d9fbe973d013bfaeefc41eb.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/2/21a2589a1d9fbe973d013bfaeefc41eb.bin
+        ProjectPath: Library/ShaderCache/2/21a2589a1d9fbe973d013bfaeefc41eb.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/2/2363712bfd5eaef7082d70444a96210c.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/2/2363712bfd5eaef7082d70444a96210c.bin
+        ProjectPath: Library/ShaderCache/2/2363712bfd5eaef7082d70444a96210c.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/2/24203c0770e8241731069b70d13464e7.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/2/24203c0770e8241731069b70d13464e7.bin
+        ProjectPath: Library/ShaderCache/2/24203c0770e8241731069b70d13464e7.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/2/2a494f69821bf034e9b5b33696c8c525.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/2/2a494f69821bf034e9b5b33696c8c525.bin
+        ProjectPath: Library/ShaderCache/2/2a494f69821bf034e9b5b33696c8c525.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/2/2bd597f19de1b78c3cdfad54681f59cb.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/2/2bd597f19de1b78c3cdfad54681f59cb.bin
+        ProjectPath: Library/ShaderCache/2/2bd597f19de1b78c3cdfad54681f59cb.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/3/3748148ffc2d19f8d1b50b9697fe3288.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/3/3748148ffc2d19f8d1b50b9697fe3288.bin
+        ProjectPath: Library/ShaderCache/3/3748148ffc2d19f8d1b50b9697fe3288.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/3/3fd92b679f2abe7b9caa01eb07818074.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/3/3fd92b679f2abe7b9caa01eb07818074.bin
+        ProjectPath: Library/ShaderCache/3/3fd92b679f2abe7b9caa01eb07818074.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/4/42301ec9c3db75189eb9f8ae085d940c.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/4/42301ec9c3db75189eb9f8ae085d940c.bin
+        ProjectPath: Library/ShaderCache/4/42301ec9c3db75189eb9f8ae085d940c.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/4/49208fd90cb7251b342cfdf165590a25.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/4/49208fd90cb7251b342cfdf165590a25.bin
+        ProjectPath: Library/ShaderCache/4/49208fd90cb7251b342cfdf165590a25.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/4/4b1431e088da323a3c1c961c79b6652b.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/4/4b1431e088da323a3c1c961c79b6652b.bin
+        ProjectPath: Library/ShaderCache/4/4b1431e088da323a3c1c961c79b6652b.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/4/4e0769a96aef44ff070800406572733a.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/4/4e0769a96aef44ff070800406572733a.bin
+        ProjectPath: Library/ShaderCache/4/4e0769a96aef44ff070800406572733a.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/5/519778d7ceadd237043ff5ee28a10cfe.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/5/519778d7ceadd237043ff5ee28a10cfe.bin
+        ProjectPath: Library/ShaderCache/5/519778d7ceadd237043ff5ee28a10cfe.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/5/528296d3b234247c1019c095c360af17.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/5/528296d3b234247c1019c095c360af17.bin
+        ProjectPath: Library/ShaderCache/5/528296d3b234247c1019c095c360af17.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/5/534db3a228d2255746c03e62da458337.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/5/534db3a228d2255746c03e62da458337.bin
+        ProjectPath: Library/ShaderCache/5/534db3a228d2255746c03e62da458337.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/5/53a10c95a4f0ab2be6a1611ec75f3e91.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/5/53a10c95a4f0ab2be6a1611ec75f3e91.bin
+        ProjectPath: Library/ShaderCache/5/53a10c95a4f0ab2be6a1611ec75f3e91.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/5/5e2164a7265fe7f7b90d613803212b1a.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/5/5e2164a7265fe7f7b90d613803212b1a.bin
+        ProjectPath: Library/ShaderCache/5/5e2164a7265fe7f7b90d613803212b1a.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/6/60099c37d5b2a0a2a3f396223f73c92e.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/6/60099c37d5b2a0a2a3f396223f73c92e.bin
+        ProjectPath: Library/ShaderCache/6/60099c37d5b2a0a2a3f396223f73c92e.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/6/636357e4eb7f15772a9344e72d40cc17.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/6/636357e4eb7f15772a9344e72d40cc17.bin
+        ProjectPath: Library/ShaderCache/6/636357e4eb7f15772a9344e72d40cc17.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/6/67ada9c47225da34b45ab38c314504cf.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/6/67ada9c47225da34b45ab38c314504cf.bin
+        ProjectPath: Library/ShaderCache/6/67ada9c47225da34b45ab38c314504cf.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/7/75555f587097d856c33e899262279e74.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/7/75555f587097d856c33e899262279e74.bin
+        ProjectPath: Library/ShaderCache/7/75555f587097d856c33e899262279e74.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/7/7a6c093a41ffa634719ddff5cc2785ef.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/7/7a6c093a41ffa634719ddff5cc2785ef.bin
+        ProjectPath: Library/ShaderCache/7/7a6c093a41ffa634719ddff5cc2785ef.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/8/8308c0210e4802cd1c884180546b78cd.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/8/8308c0210e4802cd1c884180546b78cd.bin
+        ProjectPath: Library/ShaderCache/8/8308c0210e4802cd1c884180546b78cd.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/8/8e4476e3a54e2b3acc93573b8cd8a6df.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/8/8e4476e3a54e2b3acc93573b8cd8a6df.bin
+        ProjectPath: Library/ShaderCache/8/8e4476e3a54e2b3acc93573b8cd8a6df.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/9/931a8ba33c8cc8df9122c0f87954c867.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/9/931a8ba33c8cc8df9122c0f87954c867.bin
+        ProjectPath: Library/ShaderCache/9/931a8ba33c8cc8df9122c0f87954c867.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/9/97077b69bfb1d4bf4ea0b610f6b37756.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/9/97077b69bfb1d4bf4ea0b610f6b37756.bin
+        ProjectPath: Library/ShaderCache/9/97077b69bfb1d4bf4ea0b610f6b37756.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/9/9c0ba92381650ad48b0e07a9f405804f.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/9/9c0ba92381650ad48b0e07a9f405804f.bin
+        ProjectPath: Library/ShaderCache/9/9c0ba92381650ad48b0e07a9f405804f.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/a/a3f9793e648e9751a084cdf24ceae77e.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/a/a3f9793e648e9751a084cdf24ceae77e.bin
+        ProjectPath: Library/ShaderCache/a/a3f9793e648e9751a084cdf24ceae77e.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/a/a71611192af81aab5685f0306477bc26.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/a/a71611192af81aab5685f0306477bc26.bin
+        ProjectPath: Library/ShaderCache/a/a71611192af81aab5685f0306477bc26.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/a/a7ea5b10041acd3081d26d65dc79d92a.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/a/a7ea5b10041acd3081d26d65dc79d92a.bin
+        ProjectPath: Library/ShaderCache/a/a7ea5b10041acd3081d26d65dc79d92a.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/a/a82ab4f3a9297ffb3aec3af8601dac42.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/a/a82ab4f3a9297ffb3aec3af8601dac42.bin
+        ProjectPath: Library/ShaderCache/a/a82ab4f3a9297ffb3aec3af8601dac42.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/b/bfc2af164ef4f7746d1792f836639698.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/b/bfc2af164ef4f7746d1792f836639698.bin
+        ProjectPath: Library/ShaderCache/b/bfc2af164ef4f7746d1792f836639698.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/c/c7e014bd9e1d230e3652172d6e3386fc.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/c/c7e014bd9e1d230e3652172d6e3386fc.bin
+        ProjectPath: Library/ShaderCache/c/c7e014bd9e1d230e3652172d6e3386fc.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/c/c7f4e999d9f7743dd232a41834de8ca2.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/c/c7f4e999d9f7743dd232a41834de8ca2.bin
+        ProjectPath: Library/ShaderCache/c/c7f4e999d9f7743dd232a41834de8ca2.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/c/c866dd1c7f2f4f86c7db52263b94aebf.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/c/c866dd1c7f2f4f86c7db52263b94aebf.bin
+        ProjectPath: Library/ShaderCache/c/c866dd1c7f2f4f86c7db52263b94aebf.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/c/cd042f220e9c8f8e606b88d91d67eeac.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/c/cd042f220e9c8f8e606b88d91d67eeac.bin
+        ProjectPath: Library/ShaderCache/c/cd042f220e9c8f8e606b88d91d67eeac.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/d/d00fc61fc63008177640585be511b00b.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/d/d00fc61fc63008177640585be511b00b.bin
+        ProjectPath: Library/ShaderCache/d/d00fc61fc63008177640585be511b00b.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/d/d1f20a48b3cf023518cc87bfc37543e6.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/d/d1f20a48b3cf023518cc87bfc37543e6.bin
+        ProjectPath: Library/ShaderCache/d/d1f20a48b3cf023518cc87bfc37543e6.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/d/db5ca6fa8b42363b98e63d7ebcf95593.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/d/db5ca6fa8b42363b98e63d7ebcf95593.bin
+        ProjectPath: Library/ShaderCache/d/db5ca6fa8b42363b98e63d7ebcf95593.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/d/df15b4ccee532f9c5bd730cfe1ad0f36.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/d/df15b4ccee532f9c5bd730cfe1ad0f36.bin
+        ProjectPath: Library/ShaderCache/d/df15b4ccee532f9c5bd730cfe1ad0f36.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/e/e3a1ad317a30a8df219e5e158901bb5a.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/e/e3a1ad317a30a8df219e5e158901bb5a.bin
+        ProjectPath: Library/ShaderCache/e/e3a1ad317a30a8df219e5e158901bb5a.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/ShaderCache/e/e771eecbe60c6449fcdc68fd272376da.bin
+        FullPath: /Users/azabu04/New Unity Project/Library/ShaderCache/e/e771eecbe60c6449fcdc68fd272376da.bin
+        ProjectPath: Library/ShaderCache/e/e771eecbe60c6449fcdc68fd272376da.bin
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/SpriteAtlasDatabase.asset
+        FullPath: /Users/azabu04/New Unity Project/Library/SpriteAtlasDatabase.asset
+        ProjectPath: Library/SpriteAtlasDatabase.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/assetDatabase3
+        FullPath: /Users/azabu04/New Unity Project/Library/assetDatabase3
+        ProjectPath: Library/assetDatabase3
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/gfu/cache/gitlog.yaml
+        FullPath: /Users/azabu04/New Unity Project/Library/gfu/cache/gitlog.yaml
+        ProjectPath: Library/gfu/cache/gitlog.yaml
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000001000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000001000000000000000
+        ProjectPath: Library/metadata/00/00000000000000001000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000001000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000001000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000001000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000002000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000002000000000000000
+        ProjectPath: Library/metadata/00/00000000000000002000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000002000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000002000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000002000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000003000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000003000000000000000
+        ProjectPath: Library/metadata/00/00000000000000003000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000003000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000003000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000003000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000004000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000004000000000000000
+        ProjectPath: Library/metadata/00/00000000000000004000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000004000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000004000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000004000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000004100000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000004100000000000000
+        ProjectPath: Library/metadata/00/00000000000000004100000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000004100000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000004100000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000004100000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000005000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000005000000000000000
+        ProjectPath: Library/metadata/00/00000000000000005000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000005000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000005000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000005000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000005100000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000005100000000000000
+        ProjectPath: Library/metadata/00/00000000000000005100000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000005100000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000005100000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000005100000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000006000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000006000000000000000
+        ProjectPath: Library/metadata/00/00000000000000006000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000006000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000006000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000006000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000006100000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000006100000000000000
+        ProjectPath: Library/metadata/00/00000000000000006100000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000006100000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000006100000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000006100000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000007000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000007000000000000000
+        ProjectPath: Library/metadata/00/00000000000000007000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000007000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000007000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000007000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000007100000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000007100000000000000
+        ProjectPath: Library/metadata/00/00000000000000007100000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000007100000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000007100000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000007100000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000008000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000008000000000000000
+        ProjectPath: Library/metadata/00/00000000000000008000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000008000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000008000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000008000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000009000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000009000000000000000
+        ProjectPath: Library/metadata/00/00000000000000009000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/00000000000000009000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/00000000000000009000000000000000.info
+        ProjectPath: Library/metadata/00/00000000000000009000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000a000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000a000000000000000
+        ProjectPath: Library/metadata/00/0000000000000000a000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000a000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000a000000000000000.info
+        ProjectPath: Library/metadata/00/0000000000000000a000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000a100000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000a100000000000000
+        ProjectPath: Library/metadata/00/0000000000000000a100000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000a100000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000a100000000000000.info
+        ProjectPath: Library/metadata/00/0000000000000000a100000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000b000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000b000000000000000
+        ProjectPath: Library/metadata/00/0000000000000000b000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000b000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000b000000000000000.info
+        ProjectPath: Library/metadata/00/0000000000000000b000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000c000000000000000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000c000000000000000
+        ProjectPath: Library/metadata/00/0000000000000000c000000000000000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/00/0000000000000000c000000000000000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000c000000000000000.info
+        ProjectPath: Library/metadata/00/0000000000000000c000000000000000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+        ProjectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+        ProjectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/01/01c63ccb00c374629a1376c4a8c470a8
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/01/01c63ccb00c374629a1376c4a8c470a8
+        ProjectPath: Library/metadata/01/01c63ccb00c374629a1376c4a8c470a8
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/01/01c63ccb00c374629a1376c4a8c470a8.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/01/01c63ccb00c374629a1376c4a8c470a8.info
+        ProjectPath: Library/metadata/01/01c63ccb00c374629a1376c4a8c470a8.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+        ProjectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+        ProjectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/0e/0ee624c8438eb43d98ae63400ffed158
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/0e/0ee624c8438eb43d98ae63400ffed158
+        ProjectPath: Library/metadata/0e/0ee624c8438eb43d98ae63400ffed158
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/0e/0ee624c8438eb43d98ae63400ffed158.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/0e/0ee624c8438eb43d98ae63400ffed158.info
+        ProjectPath: Library/metadata/0e/0ee624c8438eb43d98ae63400ffed158.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+        ProjectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+        ProjectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+        ProjectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+        ProjectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/13/136dc24f151211d438acee17aff4e934
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/13/136dc24f151211d438acee17aff4e934
+        ProjectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+        ProjectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+        ProjectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+        ProjectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+        ProjectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+        ProjectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/18/18eb894d53ff491408b69602eb959000
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/18/18eb894d53ff491408b69602eb959000
+        ProjectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+        ProjectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+        ProjectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+        ProjectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+        ProjectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+        ProjectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+        ProjectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+        ProjectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/23/23c8bee69b591054094d32918f98facd
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/23/23c8bee69b591054094d32918f98facd
+        ProjectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+        ProjectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+        ProjectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+        ProjectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/30/3034fdf6ea787409aabe9ed08bfc97d9
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/30/3034fdf6ea787409aabe9ed08bfc97d9
+        ProjectPath: Library/metadata/30/3034fdf6ea787409aabe9ed08bfc97d9
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/30/3034fdf6ea787409aabe9ed08bfc97d9.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/30/3034fdf6ea787409aabe9ed08bfc97d9.info
+        ProjectPath: Library/metadata/30/3034fdf6ea787409aabe9ed08bfc97d9.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+        ProjectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+        ProjectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+        ProjectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+        ProjectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/34/34f09b76ac16842cab449310cc0aa3b2
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/34/34f09b76ac16842cab449310cc0aa3b2
+        ProjectPath: Library/metadata/34/34f09b76ac16842cab449310cc0aa3b2
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/34/34f09b76ac16842cab449310cc0aa3b2.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/34/34f09b76ac16842cab449310cc0aa3b2.info
+        ProjectPath: Library/metadata/34/34f09b76ac16842cab449310cc0aa3b2.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+        ProjectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+        ProjectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+        ProjectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+        ProjectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef
+        ProjectPath: Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef.info
+        ProjectPath: Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/3d/3ddbad68dccac466db568f40ee066b07
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/3d/3ddbad68dccac466db568f40ee066b07
+        ProjectPath: Library/metadata/3d/3ddbad68dccac466db568f40ee066b07
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/3d/3ddbad68dccac466db568f40ee066b07.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/3d/3ddbad68dccac466db568f40ee066b07.info
+        ProjectPath: Library/metadata/3d/3ddbad68dccac466db568f40ee066b07.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/40/405b9b51bb344a128608d968297df79c
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/40/405b9b51bb344a128608d968297df79c
+        ProjectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+        ProjectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+        ProjectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+        ProjectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+        ProjectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+        ProjectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4
+        ProjectPath: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4.info
+        ProjectPath: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+        ProjectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+        ProjectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+        ProjectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+        ProjectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854
+        ProjectPath: Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854.info
+        ProjectPath: Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+        ProjectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+        ProjectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+        ProjectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+        ProjectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+        ProjectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+        ProjectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/58/580005a9a8ce64fb0bf8a803d2acf6d0
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/58/580005a9a8ce64fb0bf8a803d2acf6d0
+        ProjectPath: Library/metadata/58/580005a9a8ce64fb0bf8a803d2acf6d0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/58/580005a9a8ce64fb0bf8a803d2acf6d0.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/58/580005a9a8ce64fb0bf8a803d2acf6d0.info
+        ProjectPath: Library/metadata/58/580005a9a8ce64fb0bf8a803d2acf6d0.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/59/598f7cc167e65424284e573aff0f1294
+        ProjectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+        ProjectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/5a/5a9993974a98c492997113a6e192fc03
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/5a/5a9993974a98c492997113a6e192fc03
+        ProjectPath: Library/metadata/5a/5a9993974a98c492997113a6e192fc03
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/5a/5a9993974a98c492997113a6e192fc03.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/5a/5a9993974a98c492997113a6e192fc03.info
+        ProjectPath: Library/metadata/5a/5a9993974a98c492997113a6e192fc03.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+        ProjectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+        ProjectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+        ProjectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+        ProjectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+        ProjectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+        ProjectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+        ProjectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+        ProjectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+        ProjectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+        ProjectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+        ProjectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+        ProjectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+        ProjectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+        ProjectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+        ProjectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+        ProjectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d
+        ProjectPath: Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d.info
+        ProjectPath: Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+        ProjectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+        ProjectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/85/852e56802eb941638acbb491814497b0
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/85/852e56802eb941638acbb491814497b0
+        ProjectPath: Library/metadata/85/852e56802eb941638acbb491814497b0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/85/852e56802eb941638acbb491814497b0.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/85/852e56802eb941638acbb491814497b0.info
+        ProjectPath: Library/metadata/85/852e56802eb941638acbb491814497b0.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+        ProjectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+        ProjectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+        ProjectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+        ProjectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+        ProjectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+        ProjectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/8c/8c834c0a971734cf0a3f3804685732eb
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/8c/8c834c0a971734cf0a3f3804685732eb
+        ProjectPath: Library/metadata/8c/8c834c0a971734cf0a3f3804685732eb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/8c/8c834c0a971734cf0a3f3804685732eb.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/8c/8c834c0a971734cf0a3f3804685732eb.info
+        ProjectPath: Library/metadata/8c/8c834c0a971734cf0a3f3804685732eb.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+        ProjectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+        ProjectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+        ProjectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+        ProjectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+        ProjectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+        ProjectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+        ProjectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+        ProjectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+        ProjectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+        ProjectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386
+        ProjectPath: Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386.info
+        ProjectPath: Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/9a/9a70bb4d8e48945a183bd4fba6d737a3
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/9a/9a70bb4d8e48945a183bd4fba6d737a3
+        ProjectPath: Library/metadata/9a/9a70bb4d8e48945a183bd4fba6d737a3
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/9a/9a70bb4d8e48945a183bd4fba6d737a3.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/9a/9a70bb4d8e48945a183bd4fba6d737a3.info
+        ProjectPath: Library/metadata/9a/9a70bb4d8e48945a183bd4fba6d737a3.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+        ProjectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+        ProjectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+        ProjectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+        ProjectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+        ProjectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+        ProjectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29
+        ProjectPath: Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29.info
+        ProjectPath: Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+        ProjectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+        ProjectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b1/b11c05f6b4d178142971027059c71477
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b1/b11c05f6b4d178142971027059c71477
+        ProjectPath: Library/metadata/b1/b11c05f6b4d178142971027059c71477
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b1/b11c05f6b4d178142971027059c71477.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b1/b11c05f6b4d178142971027059c71477.info
+        ProjectPath: Library/metadata/b1/b11c05f6b4d178142971027059c71477.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+        ProjectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+        ProjectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+        ProjectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+        ProjectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b3/b3ec1f015109c42f586a09abd04421b4
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b3/b3ec1f015109c42f586a09abd04421b4
+        ProjectPath: Library/metadata/b3/b3ec1f015109c42f586a09abd04421b4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b3/b3ec1f015109c42f586a09abd04421b4.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b3/b3ec1f015109c42f586a09abd04421b4.info
+        ProjectPath: Library/metadata/b3/b3ec1f015109c42f586a09abd04421b4.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b7/b7f55aa6a539147849170f330f9063d4
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b7/b7f55aa6a539147849170f330f9063d4
+        ProjectPath: Library/metadata/b7/b7f55aa6a539147849170f330f9063d4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/b7/b7f55aa6a539147849170f330f9063d4.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/b7/b7f55aa6a539147849170f330f9063d4.info
+        ProjectPath: Library/metadata/b7/b7f55aa6a539147849170f330f9063d4.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+        ProjectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+        ProjectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+        ProjectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+        ProjectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+        ProjectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+        ProjectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+        ProjectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+        ProjectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+        ProjectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+        ProjectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+        ProjectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+        ProjectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+        ProjectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+        ProjectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+        ProjectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+        ProjectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+        ProjectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+        ProjectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+        ProjectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+        ProjectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ee/ee063d62eff1440a98952d07e9651fd2
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ee/ee063d62eff1440a98952d07e9651fd2
+        ProjectPath: Library/metadata/ee/ee063d62eff1440a98952d07e9651fd2
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/ee/ee063d62eff1440a98952d07e9651fd2.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/ee/ee063d62eff1440a98952d07e9651fd2.info
+        ProjectPath: Library/metadata/ee/ee063d62eff1440a98952d07e9651fd2.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f1/f1332fc3e44464dc7a52cb1303356a9d
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f1/f1332fc3e44464dc7a52cb1303356a9d
+        ProjectPath: Library/metadata/f1/f1332fc3e44464dc7a52cb1303356a9d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f1/f1332fc3e44464dc7a52cb1303356a9d.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f1/f1332fc3e44464dc7a52cb1303356a9d.info
+        ProjectPath: Library/metadata/f1/f1332fc3e44464dc7a52cb1303356a9d.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+        ProjectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+        ProjectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+        ProjectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+        ProjectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+        ProjectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+        ProjectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+        ProjectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+        ProjectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+        ProjectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+        FullPath: /Users/azabu04/New Unity Project/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+        ProjectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Library/shadercompiler-UnityShaderCompiler0.log
+        FullPath: /Users/azabu04/New Unity Project/Library/shadercompiler-UnityShaderCompiler0.log
+        ProjectPath: Library/shadercompiler-UnityShaderCompiler0.log
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: New Unity Project.sln
+        FullPath: /Users/azabu04/New Unity Project/New Unity Project.sln
+        ProjectPath: New Unity Project.sln
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: New Unity Project.userprefs
+        FullPath: /Users/azabu04/New Unity Project/New Unity Project.userprefs
+        ProjectPath: New Unity Project.userprefs
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/AudioManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/AudioManager.asset
+        ProjectPath: ProjectSettings/AudioManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/ClusterInputManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/ClusterInputManager.asset
+        ProjectPath: ProjectSettings/ClusterInputManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/DynamicsManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/DynamicsManager.asset
+        ProjectPath: ProjectSettings/DynamicsManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/EditorBuildSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/EditorBuildSettings.asset
+        ProjectPath: ProjectSettings/EditorBuildSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/EditorSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/EditorSettings.asset
+        ProjectPath: ProjectSettings/EditorSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/GraphicsSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/GraphicsSettings.asset
+        ProjectPath: ProjectSettings/GraphicsSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/InputManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/InputManager.asset
+        ProjectPath: ProjectSettings/InputManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/NavMeshAreas.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/NavMeshAreas.asset
+        ProjectPath: ProjectSettings/NavMeshAreas.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/NetworkManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/NetworkManager.asset
+        ProjectPath: ProjectSettings/NetworkManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/Physics2DSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/Physics2DSettings.asset
+        ProjectPath: ProjectSettings/Physics2DSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/ProjectSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/ProjectSettings.asset
+        ProjectPath: ProjectSettings/ProjectSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/ProjectVersion.txt
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/ProjectVersion.txt
+        ProjectPath: ProjectSettings/ProjectVersion.txt
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/QualitySettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/QualitySettings.asset
+        ProjectPath: ProjectSettings/QualitySettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/TagManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/TagManager.asset
+        ProjectPath: ProjectSettings/TagManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/TimeManager.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/TimeManager.asset
+        ProjectPath: ProjectSettings/TimeManager.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: ProjectSettings/UnityConnectSettings.asset
+        FullPath: /Users/azabu04/New Unity Project/ProjectSettings/UnityConnectSettings.asset
+        ProjectPath: ProjectSettings/UnityConnectSettings.asset
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+        FullPath: /Users/azabu04/New Unity Project/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+        ProjectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityLockfile
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityLockfile
+        ProjectPath: Temp/UnityLockfile
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-010e040fb7c5242aeba72a2809cac414
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-010e040fb7c5242aeba72a2809cac414
+        ProjectPath: Temp/UnityTempFile-010e040fb7c5242aeba72a2809cac414
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0201eae7bd6374e988ea5d06a4c48fb7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0201eae7bd6374e988ea5d06a4c48fb7
+        ProjectPath: Temp/UnityTempFile-0201eae7bd6374e988ea5d06a4c48fb7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-024775dabdf4745fb9a1a61f07abafdc
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-024775dabdf4745fb9a1a61f07abafdc
+        ProjectPath: Temp/UnityTempFile-024775dabdf4745fb9a1a61f07abafdc
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0342969632cb441419621477f329b3e4
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0342969632cb441419621477f329b3e4
+        ProjectPath: Temp/UnityTempFile-0342969632cb441419621477f329b3e4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-04e374c9719f94bf7993943fa38ca9b7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-04e374c9719f94bf7993943fa38ca9b7
+        ProjectPath: Temp/UnityTempFile-04e374c9719f94bf7993943fa38ca9b7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-084ab4c5d4d1240428f502af71037af0
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-084ab4c5d4d1240428f502af71037af0
+        ProjectPath: Temp/UnityTempFile-084ab4c5d4d1240428f502af71037af0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0a9d00944d333467a935e80f424f10f0
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0a9d00944d333467a935e80f424f10f0
+        ProjectPath: Temp/UnityTempFile-0a9d00944d333467a935e80f424f10f0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0b29d036473b64e7299f5a6408c1069c
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0b29d036473b64e7299f5a6408c1069c
+        ProjectPath: Temp/UnityTempFile-0b29d036473b64e7299f5a6408c1069c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0b43a86f83e8344779a539ff7cca9e3f
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0b43a86f83e8344779a539ff7cca9e3f
+        ProjectPath: Temp/UnityTempFile-0b43a86f83e8344779a539ff7cca9e3f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0ee93ee2c8599483d98a5c66731e6a14
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0ee93ee2c8599483d98a5c66731e6a14
+        ProjectPath: Temp/UnityTempFile-0ee93ee2c8599483d98a5c66731e6a14
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-0f442f57d859847f09ed172b1e5c52e7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-0f442f57d859847f09ed172b1e5c52e7
+        ProjectPath: Temp/UnityTempFile-0f442f57d859847f09ed172b1e5c52e7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-1281aa299aca24578ad81aae9367cd4b
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-1281aa299aca24578ad81aae9367cd4b
+        ProjectPath: Temp/UnityTempFile-1281aa299aca24578ad81aae9367cd4b
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-1bcbc4646700b4516a70a027b5222523
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-1bcbc4646700b4516a70a027b5222523
+        ProjectPath: Temp/UnityTempFile-1bcbc4646700b4516a70a027b5222523
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-21a2ae5707a1d4d5aa0564612d246ea7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-21a2ae5707a1d4d5aa0564612d246ea7
+        ProjectPath: Temp/UnityTempFile-21a2ae5707a1d4d5aa0564612d246ea7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-22f3c81cf74ab46b5aaf8dde9864f8c0
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-22f3c81cf74ab46b5aaf8dde9864f8c0
+        ProjectPath: Temp/UnityTempFile-22f3c81cf74ab46b5aaf8dde9864f8c0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-2339e12f3bb884bca9a81cf685f2a150
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-2339e12f3bb884bca9a81cf685f2a150
+        ProjectPath: Temp/UnityTempFile-2339e12f3bb884bca9a81cf685f2a150
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-25a2f67edf25a4ce8a1ea7a43320a6ef
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-25a2f67edf25a4ce8a1ea7a43320a6ef
+        ProjectPath: Temp/UnityTempFile-25a2f67edf25a4ce8a1ea7a43320a6ef
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-2836f942de75b4d4cad9e289afe542d8
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-2836f942de75b4d4cad9e289afe542d8
+        ProjectPath: Temp/UnityTempFile-2836f942de75b4d4cad9e289afe542d8
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-2906f18cacf654a26a84f0968df76bd6
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-2906f18cacf654a26a84f0968df76bd6
+        ProjectPath: Temp/UnityTempFile-2906f18cacf654a26a84f0968df76bd6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-2ae793104210449afa0c9aa0b5a039b1
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-2ae793104210449afa0c9aa0b5a039b1
+        ProjectPath: Temp/UnityTempFile-2ae793104210449afa0c9aa0b5a039b1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-2b85c3aa1ce67489eab1df8871efae4b
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-2b85c3aa1ce67489eab1df8871efae4b
+        ProjectPath: Temp/UnityTempFile-2b85c3aa1ce67489eab1df8871efae4b
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-2d300b349be1446069c1191e957e4aa6
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-2d300b349be1446069c1191e957e4aa6
+        ProjectPath: Temp/UnityTempFile-2d300b349be1446069c1191e957e4aa6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-306475ac1358e4134a4b981cba72c7e7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-306475ac1358e4134a4b981cba72c7e7
+        ProjectPath: Temp/UnityTempFile-306475ac1358e4134a4b981cba72c7e7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-30e0befcf523f4b3ea4dc1c799bd0b5e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-30e0befcf523f4b3ea4dc1c799bd0b5e
+        ProjectPath: Temp/UnityTempFile-30e0befcf523f4b3ea4dc1c799bd0b5e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-32fd03898cc23499d90aaabb031e83c1
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-32fd03898cc23499d90aaabb031e83c1
+        ProjectPath: Temp/UnityTempFile-32fd03898cc23499d90aaabb031e83c1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-37afa30a38c844326a0af95ba8666bfd
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-37afa30a38c844326a0af95ba8666bfd
+        ProjectPath: Temp/UnityTempFile-37afa30a38c844326a0af95ba8666bfd
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-38435a367182c402f9f3d181f38576cc
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-38435a367182c402f9f3d181f38576cc
+        ProjectPath: Temp/UnityTempFile-38435a367182c402f9f3d181f38576cc
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-38f24551d346b4321bf981abfd154909
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-38f24551d346b4321bf981abfd154909
+        ProjectPath: Temp/UnityTempFile-38f24551d346b4321bf981abfd154909
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-3ac892dba77264502b5a0457ab4fa97e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-3ac892dba77264502b5a0457ab4fa97e
+        ProjectPath: Temp/UnityTempFile-3ac892dba77264502b5a0457ab4fa97e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-3ce6d10cb22a24275b1f438210a80418
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-3ce6d10cb22a24275b1f438210a80418
+        ProjectPath: Temp/UnityTempFile-3ce6d10cb22a24275b1f438210a80418
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-3cf4834ce00764852aefc7995ca81570
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-3cf4834ce00764852aefc7995ca81570
+        ProjectPath: Temp/UnityTempFile-3cf4834ce00764852aefc7995ca81570
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-3f087aa14f1914a1e81e76f853ee78e7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-3f087aa14f1914a1e81e76f853ee78e7
+        ProjectPath: Temp/UnityTempFile-3f087aa14f1914a1e81e76f853ee78e7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-3f1bafcb163934c31b34bf8205d78e38
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-3f1bafcb163934c31b34bf8205d78e38
+        ProjectPath: Temp/UnityTempFile-3f1bafcb163934c31b34bf8205d78e38
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-42ca057b9a35e41628fb3c4db43d6c3e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-42ca057b9a35e41628fb3c4db43d6c3e
+        ProjectPath: Temp/UnityTempFile-42ca057b9a35e41628fb3c4db43d6c3e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-42cb4178b74da409883770bb484bded6
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-42cb4178b74da409883770bb484bded6
+        ProjectPath: Temp/UnityTempFile-42cb4178b74da409883770bb484bded6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-4358c90873fe946c99e3c78329901f2d
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-4358c90873fe946c99e3c78329901f2d
+        ProjectPath: Temp/UnityTempFile-4358c90873fe946c99e3c78329901f2d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-445ad7e70a0f64d379e9f8362b71620c
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-445ad7e70a0f64d379e9f8362b71620c
+        ProjectPath: Temp/UnityTempFile-445ad7e70a0f64d379e9f8362b71620c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-45ab1391ddda94e7d86c5a3874d1c599
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-45ab1391ddda94e7d86c5a3874d1c599
+        ProjectPath: Temp/UnityTempFile-45ab1391ddda94e7d86c5a3874d1c599
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-4ad2a7d12568f475c82b90a2548707a7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-4ad2a7d12568f475c82b90a2548707a7
+        ProjectPath: Temp/UnityTempFile-4ad2a7d12568f475c82b90a2548707a7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-4b9393e776bed4962ac090fd87be3eda
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-4b9393e776bed4962ac090fd87be3eda
+        ProjectPath: Temp/UnityTempFile-4b9393e776bed4962ac090fd87be3eda
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-4f1dd89bae04441429002ead057bbefb
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-4f1dd89bae04441429002ead057bbefb
+        ProjectPath: Temp/UnityTempFile-4f1dd89bae04441429002ead057bbefb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-50a2619495cf1484d91c83e653a2204c
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-50a2619495cf1484d91c83e653a2204c
+        ProjectPath: Temp/UnityTempFile-50a2619495cf1484d91c83e653a2204c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-51e535009cf75423ea9085e00820869d
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-51e535009cf75423ea9085e00820869d
+        ProjectPath: Temp/UnityTempFile-51e535009cf75423ea9085e00820869d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-586c26388cd8b4a3fae9d761ddfe1304
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-586c26388cd8b4a3fae9d761ddfe1304
+        ProjectPath: Temp/UnityTempFile-586c26388cd8b4a3fae9d761ddfe1304
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-5885609be5243420ba97e9ff72f70a30
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-5885609be5243420ba97e9ff72f70a30
+        ProjectPath: Temp/UnityTempFile-5885609be5243420ba97e9ff72f70a30
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-599b2dc4a792a4d29ac24492a2bb20f0
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-599b2dc4a792a4d29ac24492a2bb20f0
+        ProjectPath: Temp/UnityTempFile-599b2dc4a792a4d29ac24492a2bb20f0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-5a19a3f28f2cc42c0b3b57160b07e3ff
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-5a19a3f28f2cc42c0b3b57160b07e3ff
+        ProjectPath: Temp/UnityTempFile-5a19a3f28f2cc42c0b3b57160b07e3ff
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-5a61e1fde223e44ea9e72123dc7b3ecd
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-5a61e1fde223e44ea9e72123dc7b3ecd
+        ProjectPath: Temp/UnityTempFile-5a61e1fde223e44ea9e72123dc7b3ecd
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-6104b0bcd554644a280f0f0cf6834b57
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-6104b0bcd554644a280f0f0cf6834b57
+        ProjectPath: Temp/UnityTempFile-6104b0bcd554644a280f0f0cf6834b57
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-637b9de8e6f024cb69b696e94562950f
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-637b9de8e6f024cb69b696e94562950f
+        ProjectPath: Temp/UnityTempFile-637b9de8e6f024cb69b696e94562950f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-6582c5ce6c32e4682ae92b0756111aa5
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-6582c5ce6c32e4682ae92b0756111aa5
+        ProjectPath: Temp/UnityTempFile-6582c5ce6c32e4682ae92b0756111aa5
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-67240092a78764d84928baefb33fe050
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-67240092a78764d84928baefb33fe050
+        ProjectPath: Temp/UnityTempFile-67240092a78764d84928baefb33fe050
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-6d4a9e10ac1734a708bd141a383b5da7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-6d4a9e10ac1734a708bd141a383b5da7
+        ProjectPath: Temp/UnityTempFile-6d4a9e10ac1734a708bd141a383b5da7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-70642f7f675eb41d199a3721cec2be4a
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-70642f7f675eb41d199a3721cec2be4a
+        ProjectPath: Temp/UnityTempFile-70642f7f675eb41d199a3721cec2be4a
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-82a02b3886b91408886a2e67c472c1ea
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-82a02b3886b91408886a2e67c472c1ea
+        ProjectPath: Temp/UnityTempFile-82a02b3886b91408886a2e67c472c1ea
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-835519004f70e40eea450190d2b91814
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-835519004f70e40eea450190d2b91814
+        ProjectPath: Temp/UnityTempFile-835519004f70e40eea450190d2b91814
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-83ad00ac4756a491a8c4463a885365f1
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-83ad00ac4756a491a8c4463a885365f1
+        ProjectPath: Temp/UnityTempFile-83ad00ac4756a491a8c4463a885365f1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-8483655fef9ac41348ff748477bbd0f6
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-8483655fef9ac41348ff748477bbd0f6
+        ProjectPath: Temp/UnityTempFile-8483655fef9ac41348ff748477bbd0f6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-8769d1fbca1bc4a62813dc7c7b2fd95d
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-8769d1fbca1bc4a62813dc7c7b2fd95d
+        ProjectPath: Temp/UnityTempFile-8769d1fbca1bc4a62813dc7c7b2fd95d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-8aab807054ed545a9967d318ea4925fe
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-8aab807054ed545a9967d318ea4925fe
+        ProjectPath: Temp/UnityTempFile-8aab807054ed545a9967d318ea4925fe
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-8ab77b9f230f4488dba4434f75146de7
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-8ab77b9f230f4488dba4434f75146de7
+        ProjectPath: Temp/UnityTempFile-8ab77b9f230f4488dba4434f75146de7
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-8c741b437d1054aa6866d9ea8f041a26
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-8c741b437d1054aa6866d9ea8f041a26
+        ProjectPath: Temp/UnityTempFile-8c741b437d1054aa6866d9ea8f041a26
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-8f936ac3458f94154a45895430b80672
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-8f936ac3458f94154a45895430b80672
+        ProjectPath: Temp/UnityTempFile-8f936ac3458f94154a45895430b80672
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-92f377d98079346cfbeea41e67acc258
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-92f377d98079346cfbeea41e67acc258
+        ProjectPath: Temp/UnityTempFile-92f377d98079346cfbeea41e67acc258
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-9575166c98176435f9be31c47b449609
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-9575166c98176435f9be31c47b449609
+        ProjectPath: Temp/UnityTempFile-9575166c98176435f9be31c47b449609
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-9a0e80336dc4b4a7a8418eeca007cb05
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-9a0e80336dc4b4a7a8418eeca007cb05
+        ProjectPath: Temp/UnityTempFile-9a0e80336dc4b4a7a8418eeca007cb05
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-a2198177e0b9745f0aaeb3072476d4a0
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-a2198177e0b9745f0aaeb3072476d4a0
+        ProjectPath: Temp/UnityTempFile-a2198177e0b9745f0aaeb3072476d4a0
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-a45c2b6af6f564db5b328dd13e6c8488
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-a45c2b6af6f564db5b328dd13e6c8488
+        ProjectPath: Temp/UnityTempFile-a45c2b6af6f564db5b328dd13e6c8488
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-a591902fbe8484188946d90c99a421c1
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-a591902fbe8484188946d90c99a421c1
+        ProjectPath: Temp/UnityTempFile-a591902fbe8484188946d90c99a421c1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-a60e50ba796c04662a7af5d78d5fc7b5
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-a60e50ba796c04662a7af5d78d5fc7b5
+        ProjectPath: Temp/UnityTempFile-a60e50ba796c04662a7af5d78d5fc7b5
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-a77aee193d7de4a0ca15d8b7f7044cd9
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-a77aee193d7de4a0ca15d8b7f7044cd9
+        ProjectPath: Temp/UnityTempFile-a77aee193d7de4a0ca15d8b7f7044cd9
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-ab8d0023fc56d41bab5b378e55638c89
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ab8d0023fc56d41bab5b378e55638c89
+        ProjectPath: Temp/UnityTempFile-ab8d0023fc56d41bab5b378e55638c89
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-adcf6b9c45cb34d9f8f2a3a17f3f2806
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-adcf6b9c45cb34d9f8f2a3a17f3f2806
+        ProjectPath: Temp/UnityTempFile-adcf6b9c45cb34d9f8f2a3a17f3f2806
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-b0189d656517c4ecd87f765e37698c79
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b0189d656517c4ecd87f765e37698c79
+        ProjectPath: Temp/UnityTempFile-b0189d656517c4ecd87f765e37698c79
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-b07eb431789b64db98d2ebdb0507fafc
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b07eb431789b64db98d2ebdb0507fafc
+        ProjectPath: Temp/UnityTempFile-b07eb431789b64db98d2ebdb0507fafc
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-b5da2b9418d354f4395f0b842d084bdb
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b5da2b9418d354f4395f0b842d084bdb
+        ProjectPath: Temp/UnityTempFile-b5da2b9418d354f4395f0b842d084bdb
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-b7a6b4b3d2829448eb8ea3c0f640fe0f
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b7a6b4b3d2829448eb8ea3c0f640fe0f
+        ProjectPath: Temp/UnityTempFile-b7a6b4b3d2829448eb8ea3c0f640fe0f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-bbc99036149904fef9352263bed30bd1
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-bbc99036149904fef9352263bed30bd1
+        ProjectPath: Temp/UnityTempFile-bbc99036149904fef9352263bed30bd1
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-bde4c37bc8e4844ada6bcc19530a7b20
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-bde4c37bc8e4844ada6bcc19530a7b20
+        ProjectPath: Temp/UnityTempFile-bde4c37bc8e4844ada6bcc19530a7b20
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-c4d00cb703f334dd4ad08d48c4ac1744
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-c4d00cb703f334dd4ad08d48c4ac1744
+        ProjectPath: Temp/UnityTempFile-c4d00cb703f334dd4ad08d48c4ac1744
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-c8c671cf4c7c34b5881a5207bd3d00a9
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-c8c671cf4c7c34b5881a5207bd3d00a9
+        ProjectPath: Temp/UnityTempFile-c8c671cf4c7c34b5881a5207bd3d00a9
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-c9113e84aa136478fb72891f4aaf1e31
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-c9113e84aa136478fb72891f4aaf1e31
+        ProjectPath: Temp/UnityTempFile-c9113e84aa136478fb72891f4aaf1e31
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-cbba98f19938d47abb85788fa20d5fdf
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-cbba98f19938d47abb85788fa20d5fdf
+        ProjectPath: Temp/UnityTempFile-cbba98f19938d47abb85788fa20d5fdf
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-ce86b6c00cab14f38bc6ae48da8c8127
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ce86b6c00cab14f38bc6ae48da8c8127
+        ProjectPath: Temp/UnityTempFile-ce86b6c00cab14f38bc6ae48da8c8127
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d1d2b11039a95486a960dc0e8133b58e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d1d2b11039a95486a960dc0e8133b58e
+        ProjectPath: Temp/UnityTempFile-d1d2b11039a95486a960dc0e8133b58e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d3a760b30aaee40b6b286b40b8c53dec
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d3a760b30aaee40b6b286b40b8c53dec
+        ProjectPath: Temp/UnityTempFile-d3a760b30aaee40b6b286b40b8c53dec
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d40f9cbba8d6c4eed8a5d82bcdad2ebe
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d40f9cbba8d6c4eed8a5d82bcdad2ebe
+        ProjectPath: Temp/UnityTempFile-d40f9cbba8d6c4eed8a5d82bcdad2ebe
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d45cf8955154041f2a293e6011fc2a6e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d45cf8955154041f2a293e6011fc2a6e
+        ProjectPath: Temp/UnityTempFile-d45cf8955154041f2a293e6011fc2a6e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d49b9489886f7475ea95e9b66a09907a
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d49b9489886f7475ea95e9b66a09907a
+        ProjectPath: Temp/UnityTempFile-d49b9489886f7475ea95e9b66a09907a
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d68aa92b702ff4b4ebd0838175fb5ae3
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d68aa92b702ff4b4ebd0838175fb5ae3
+        ProjectPath: Temp/UnityTempFile-d68aa92b702ff4b4ebd0838175fb5ae3
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d80a3dc5fea45418f9ca52125529ace4
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d80a3dc5fea45418f9ca52125529ace4
+        ProjectPath: Temp/UnityTempFile-d80a3dc5fea45418f9ca52125529ace4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d845e303e5c5d40a7922d9bb84f75afe
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d845e303e5c5d40a7922d9bb84f75afe
+        ProjectPath: Temp/UnityTempFile-d845e303e5c5d40a7922d9bb84f75afe
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-d9776debd8bd6496c8d5b3e00caf405e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d9776debd8bd6496c8d5b3e00caf405e
+        ProjectPath: Temp/UnityTempFile-d9776debd8bd6496c8d5b3e00caf405e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-da9aba2193d804e77bf760f83a9fc6b4
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-da9aba2193d804e77bf760f83a9fc6b4
+        ProjectPath: Temp/UnityTempFile-da9aba2193d804e77bf760f83a9fc6b4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-db73619d791f846498d00a2f8c7c23a6
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-db73619d791f846498d00a2f8c7c23a6
+        ProjectPath: Temp/UnityTempFile-db73619d791f846498d00a2f8c7c23a6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-dd7e434cb9b1b448a80a639add36a8a4
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-dd7e434cb9b1b448a80a639add36a8a4
+        ProjectPath: Temp/UnityTempFile-dd7e434cb9b1b448a80a639add36a8a4
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-ddba9e35d087d439a811bfdca1db801f
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ddba9e35d087d439a811bfdca1db801f
+        ProjectPath: Temp/UnityTempFile-ddba9e35d087d439a811bfdca1db801f
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-e0907a9f687f2410ea3830168b542b5d
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-e0907a9f687f2410ea3830168b542b5d
+        ProjectPath: Temp/UnityTempFile-e0907a9f687f2410ea3830168b542b5d
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-e2437331a8fbb488794b4379088fc210
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-e2437331a8fbb488794b4379088fc210
+        ProjectPath: Temp/UnityTempFile-e2437331a8fbb488794b4379088fc210
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-e5e5a37e4e66145d28ce78afc06ee246
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-e5e5a37e4e66145d28ce78afc06ee246
+        ProjectPath: Temp/UnityTempFile-e5e5a37e4e66145d28ce78afc06ee246
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-e9389de3119be4151a6c14ad998216ca
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-e9389de3119be4151a6c14ad998216ca
+        ProjectPath: Temp/UnityTempFile-e9389de3119be4151a6c14ad998216ca
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-ec30a9c63b9474d9a999e6441a62ece6
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ec30a9c63b9474d9a999e6441a62ece6
+        ProjectPath: Temp/UnityTempFile-ec30a9c63b9474d9a999e6441a62ece6
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-ed789b3c4818c4068abaa06b89cf65a3
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ed789b3c4818c4068abaa06b89cf65a3
+        ProjectPath: Temp/UnityTempFile-ed789b3c4818c4068abaa06b89cf65a3
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-ee5b8aaa1606a4184a8558d2f197b45c
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ee5b8aaa1606a4184a8558d2f197b45c
+        ProjectPath: Temp/UnityTempFile-ee5b8aaa1606a4184a8558d2f197b45c
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/UnityTempFile-f14f30b75af2f49c69f57894861eea2e
+        FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-f14f30b75af2f49c69f57894861eea2e
+        ProjectPath: Temp/UnityTempFile-f14f30b75af2f49c69f57894861eea2e
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      - Path: Temp/__Backupscenes/0.backup
+        FullPath: /Users/azabu04/New Unity Project/Temp/__Backupscenes/0.backup
+        ProjectPath: Temp/__Backupscenes/0.backup
+        OriginalPath: 
+        Status: 1
+        Staged: 0
+      entryCommitTargets:
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
       foldedTreeEntries: []
   historyTab:
     detailsScroll: {x: 0, y: 0}
@@ -83,8 +3429,8 @@ MonoBehaviour:
     history: []
     isBusy: 0
   settingsTab:
-    gitName: azabu04
-    gitEmail: Process finished
+    gitName: 
+    gitEmail: 
     gitIgnoreRulesSelection: 0
     initDirectory: 
     lockedFiles: []
@@ -96,8 +3442,8 @@ MonoBehaviour:
     lockedFileSelection: -1
     hasRemote: 0
     remoteHasChanged: 0
-    newGitName: azabu04
-    newGitEmail: Process finished
+    newGitName: Shun Yoshikawa
+    newGitEmail: shun_ny@icloud.com
     newRepositoryRemoteUrl: 
   repoBranch: 
   repoUrl: No remote configured
@@ -134,7 +3480,7 @@ MonoBehaviour:
   m_MinSize: {x: 742, y: 271}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 734
+  controlID: 8038
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +3565,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.30119455, y: 0.017736228, z: -0.005603375, w: -0.95338136}
     speed: 2
-    m_Value: {x: -0.30119455, y: 0.017736228, z: -0.005603375, w: -0.95338136}
+    m_Value: {x: -0.30119455, y: 0.017736226, z: -0.005603375, w: -0.9533813}
   m_Size:
     m_Target: 9.049588
     speed: 2
@@ -445,7 +3791,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 0e260000
     m_LastClickedID: 9742
-    m_ExpandedIDs: 0e26000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000e260000782600007e2600002e46000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,7 +3897,7 @@ MonoBehaviour:
   m_MinSize: {x: 302, y: 200}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 1911
+  controlID: 8114
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
