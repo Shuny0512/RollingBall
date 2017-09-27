@@ -5,6 +5,8 @@ public class GoalController: MonoBehaviour
 {
 	public UIController UIController;
 
+	public RestartController RestartController;
+
 	private void OnTriggerEnter (Collider hit)
 	{
 		if (hit.CompareTag ("Player"))
@@ -14,6 +16,7 @@ public class GoalController: MonoBehaviour
 
 			UIController.ShowGameClearLabel();
 
+			RestartController.ShowRestart();
 		}
 	}
 }
