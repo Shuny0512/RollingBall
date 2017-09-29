@@ -1,8 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Controller/FollowPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Controller/RestartController.cs">
     <Files>
       <File FileName="Assets/Controller/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Controller/UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Controller/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Controller/GoalController.cs" Line="17" Column="38" />
+      <File FileName="Assets/Controller/GameOverController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Controller/DeathObjectController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Controller/RestartController.cs" Line="20" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

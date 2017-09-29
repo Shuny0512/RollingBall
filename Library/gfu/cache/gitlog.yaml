@@ -12,6 +12,372 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 955f6e0d9a1652937e705b63def55c143bbfcfc7
+    MergeA: 
+    MergeB: 
+    AuthorName: Shun Yoshikawa
+    AuthorEmail: shun_ny@icloud.com
+    CommitEmail: shun_ny@icloud.com
+    CommitName: Shun Yoshikawa
+    Summary: Second commit
+    Description: Second commit
+    TimeString: 09/27/2017 20:00:18 +09:00
+    CommitTimeString: 09/27/2017 20:00:18 +09:00
+    Changes:
+    - Path: Assembly-CSharp.csproj
+      FullPath: /Users/azabu04/New Unity Project/Assembly-CSharp.csproj
+      ProjectPath: Assembly-CSharp.csproj
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Controller/GoalController.cs
+      FullPath: /Users/azabu04/New Unity Project/Assets/Controller/GoalController.cs
+      ProjectPath: Assets/Controller/GoalController.cs
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assets/Controller/RestartController.cs
+      FullPath: /Users/azabu04/New Unity Project/Assets/Controller/RestartController.cs
+      ProjectPath: Assets/Controller/RestartController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Controller/RestartController.cs.meta
+      FullPath: /Users/azabu04/New Unity Project/Assets/Controller/RestartController.cs.meta
+      ProjectPath: Assets/Controller/RestartController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/scenes/Game.meta
+      FullPath: /Users/azabu04/New Unity Project/Assets/scenes/Game.meta
+      ProjectPath: Assets/scenes/Game.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: "test.unity\tAssets/scenes/Game.unity"
+      FullPath: "/Users/azabu04/New Unity Project/test.unity\tAssets/scenes/Game.unity"
+      ProjectPath: "test.unity\tAssets/scenes/Game.unity"
+      OriginalPath: Assets/scenes/unity
+      Status: 6
+      Staged: 0
+    - Path: "test.unity.meta\tAssets/scenes/Game.unity.meta"
+      FullPath: "/Users/azabu04/New Unity Project/test.unity.meta\tAssets/scenes/Game.unity.meta"
+      ProjectPath: "test.unity.meta\tAssets/scenes/Game.unity.meta"
+      OriginalPath: Assets/scenes/unity
+      Status: 6
+      Staged: 0
+    - Path: Assets/scenes/Game/LightingData.asset
+      FullPath: /Users/azabu04/New Unity Project/Assets/scenes/Game/LightingData.asset
+      ProjectPath: Assets/scenes/Game/LightingData.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/scenes/Game/LightingData.asset.meta
+      FullPath: /Users/azabu04/New Unity Project/Assets/scenes/Game/LightingData.asset.meta
+      ProjectPath: Assets/scenes/Game/LightingData.asset.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/scenes/Game/ReflectionProbe-0.exr
+      FullPath: /Users/azabu04/New Unity Project/Assets/scenes/Game/ReflectionProbe-0.exr
+      ProjectPath: Assets/scenes/Game/ReflectionProbe-0.exr
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/scenes/Game/ReflectionProbe-0.exr.meta
+      FullPath: /Users/azabu04/New Unity Project/Assets/scenes/Game/ReflectionProbe-0.exr.meta
+      ProjectPath: Assets/scenes/Game/ReflectionProbe-0.exr.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/CrashedAssetImports.txt
+      FullPath: /Users/azabu04/New Unity Project/Library/CrashedAssetImports.txt
+      ProjectPath: Library/CrashedAssetImports.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/CurrentLayout.dwlt
+      FullPath: /Users/azabu04/New Unity Project/Library/CurrentLayout.dwlt
+      ProjectPath: Library/CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/EditorInstance.json
+      FullPath: /Users/azabu04/New Unity Project/Library/EditorInstance.json
+      ProjectPath: Library/EditorInstance.json
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/InspectorExpandedItems.asset
+      FullPath: /Users/azabu04/New Unity Project/Library/InspectorExpandedItems.asset
+      ProjectPath: Library/InspectorExpandedItems.asset
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      FullPath: /Users/azabu04/New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      FullPath: /Users/azabu04/New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/assetDatabase3
+      FullPath: /Users/azabu04/New Unity Project/Library/assetDatabase3
+      ProjectPath: Library/assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/expandedItems
+      FullPath: /Users/azabu04/New Unity Project/Library/expandedItems
+      ProjectPath: Library/expandedItems
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/gfu/cache/gitlog.yaml
+      FullPath: /Users/azabu04/New Unity Project/Library/gfu/cache/gitlog.yaml
+      ProjectPath: Library/gfu/cache/gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/00/0000000000000000b000000000000000
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/00/0000000000000000b000000000000000
+      ProjectPath: Library/metadata/00/0000000000000000b000000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/26/263a7bf337fb144239b3ab23683c0e7e
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/26/263a7bf337fb144239b3ab23683c0e7e
+      ProjectPath: Library/metadata/26/263a7bf337fb144239b3ab23683c0e7e
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/26/263a7bf337fb144239b3ab23683c0e7e.info
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/26/263a7bf337fb144239b3ab23683c0e7e.info
+      ProjectPath: Library/metadata/26/263a7bf337fb144239b3ab23683c0e7e.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4
+      ProjectPath: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4.info
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4.info
+      ProjectPath: Library/metadata/48/48dc09d64ce9f4d5697f610a745a2ad4.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854
+      ProjectPath: Library/metadata/4e/4e5b6b36bc004450395e6fbd39df4854
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/50/500a0e34bf724406f8e692e2ae821c99
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/50/500a0e34bf724406f8e692e2ae821c99
+      ProjectPath: Library/metadata/50/500a0e34bf724406f8e692e2ae821c99
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/50/500a0e34bf724406f8e692e2ae821c99.info
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/50/500a0e34bf724406f8e692e2ae821c99.info
+      ProjectPath: Library/metadata/50/500a0e34bf724406f8e692e2ae821c99.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/af/af680e61901184e1ca606f1a1a16322d
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/af/af680e61901184e1ca606f1a1a16322d
+      ProjectPath: Library/metadata/af/af680e61901184e1ca606f1a1a16322d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/af/af680e61901184e1ca606f1a1a16322d.info
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/af/af680e61901184e1ca606f1a1a16322d.info
+      ProjectPath: Library/metadata/af/af680e61901184e1ca606f1a1a16322d.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d1/d184891d850364da396226cf4a2bd6f2
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/d1/d184891d850364da396226cf4a2bd6f2
+      ProjectPath: Library/metadata/d1/d184891d850364da396226cf4a2bd6f2
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d1/d184891d850364da396226cf4a2bd6f2.info
+      FullPath: /Users/azabu04/New Unity Project/Library/metadata/d1/d184891d850364da396226cf4a2bd6f2.info
+      ProjectPath: Library/metadata/d1/d184891d850364da396226cf4a2bd6f2.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: New Unity Project.userprefs
+      FullPath: /Users/azabu04/New Unity Project/New Unity Project.userprefs
+      ProjectPath: New Unity Project.userprefs
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: ProjectSettings/EditorBuildSettings.asset
+      FullPath: /Users/azabu04/New Unity Project/ProjectSettings/EditorBuildSettings.asset
+      ProjectPath: ProjectSettings/EditorBuildSettings.asset
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Temp/UnityTempFile-08286105dfae348ca9699e73c4c4426f
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-08286105dfae348ca9699e73c4c4426f
+      ProjectPath: Temp/UnityTempFile-08286105dfae348ca9699e73c4c4426f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-23dbc2c7a31f34d9da1ea20d1c7f7d36
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-23dbc2c7a31f34d9da1ea20d1c7f7d36
+      ProjectPath: Temp/UnityTempFile-23dbc2c7a31f34d9da1ea20d1c7f7d36
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-25144b46bc3eb425d877f006352b459d
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-25144b46bc3eb425d877f006352b459d
+      ProjectPath: Temp/UnityTempFile-25144b46bc3eb425d877f006352b459d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-27a64abfd132f41ef8d0df5db48ea1c5
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-27a64abfd132f41ef8d0df5db48ea1c5
+      ProjectPath: Temp/UnityTempFile-27a64abfd132f41ef8d0df5db48ea1c5
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-380c91bc77e214828ad55be078b3a3c3
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-380c91bc77e214828ad55be078b3a3c3
+      ProjectPath: Temp/UnityTempFile-380c91bc77e214828ad55be078b3a3c3
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-3ead95f06e8344a50b032208a389b6e6
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-3ead95f06e8344a50b032208a389b6e6
+      ProjectPath: Temp/UnityTempFile-3ead95f06e8344a50b032208a389b6e6
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-4a87326fd6ed24572bfbdf317ac06ad7
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-4a87326fd6ed24572bfbdf317ac06ad7
+      ProjectPath: Temp/UnityTempFile-4a87326fd6ed24572bfbdf317ac06ad7
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-572471cde1b7544deadcb60c85f13f06
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-572471cde1b7544deadcb60c85f13f06
+      ProjectPath: Temp/UnityTempFile-572471cde1b7544deadcb60c85f13f06
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-6877b022ea2674bb0b4332f72512ea1a
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-6877b022ea2674bb0b4332f72512ea1a
+      ProjectPath: Temp/UnityTempFile-6877b022ea2674bb0b4332f72512ea1a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-795670d1d03904f95b8e15e3532259d0
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-795670d1d03904f95b8e15e3532259d0
+      ProjectPath: Temp/UnityTempFile-795670d1d03904f95b8e15e3532259d0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-9140dbdb8a90443c9b9e80d7a6534011
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-9140dbdb8a90443c9b9e80d7a6534011
+      ProjectPath: Temp/UnityTempFile-9140dbdb8a90443c9b9e80d7a6534011
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-a10ad785fb0814dbb912a66a17f8ae1d
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-a10ad785fb0814dbb912a66a17f8ae1d
+      ProjectPath: Temp/UnityTempFile-a10ad785fb0814dbb912a66a17f8ae1d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-aa85f6a94867948268602d635868d427
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-aa85f6a94867948268602d635868d427
+      ProjectPath: Temp/UnityTempFile-aa85f6a94867948268602d635868d427
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-aaa31a8611b414444a836c21b75b73a0
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-aaa31a8611b414444a836c21b75b73a0
+      ProjectPath: Temp/UnityTempFile-aaa31a8611b414444a836c21b75b73a0
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-b0c96f0887ff4475a973551b1c475aef
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b0c96f0887ff4475a973551b1c475aef
+      ProjectPath: Temp/UnityTempFile-b0c96f0887ff4475a973551b1c475aef
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-b2fa3f21ca8cc4c778faa3ac3610f0a9
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b2fa3f21ca8cc4c778faa3ac3610f0a9
+      ProjectPath: Temp/UnityTempFile-b2fa3f21ca8cc4c778faa3ac3610f0a9
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-b533628d218774944aef1406830cf09a
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-b533628d218774944aef1406830cf09a
+      ProjectPath: Temp/UnityTempFile-b533628d218774944aef1406830cf09a
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-d1ef13e64a30b46069aec9b3c8d62504
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d1ef13e64a30b46069aec9b3c8d62504
+      ProjectPath: Temp/UnityTempFile-d1ef13e64a30b46069aec9b3c8d62504
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-d7567943f844e405fa634ea6bccacf5e
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-d7567943f844e405fa634ea6bccacf5e
+      ProjectPath: Temp/UnityTempFile-d7567943f844e405fa634ea6bccacf5e
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-dee42a7504f9744f3b41fc4ce1ff3462
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-dee42a7504f9744f3b41fc4ce1ff3462
+      ProjectPath: Temp/UnityTempFile-dee42a7504f9744f3b41fc4ce1ff3462
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-ed80b3cdfcb28433ea2f364e3ff01d8d
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-ed80b3cdfcb28433ea2f364e3ff01d8d
+      ProjectPath: Temp/UnityTempFile-ed80b3cdfcb28433ea2f364e3ff01d8d
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-eed477f335584421d839aa5a89022c75
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-eed477f335584421d839aa5a89022c75
+      ProjectPath: Temp/UnityTempFile-eed477f335584421d839aa5a89022c75
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-f4605f3fd7a0d4adeb5cc141d4039f59
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-f4605f3fd7a0d4adeb5cc141d4039f59
+      ProjectPath: Temp/UnityTempFile-f4605f3fd7a0d4adeb5cc141d4039f59
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-fd9848efa19924b1c93240a2b1ee8806
+      FullPath: /Users/azabu04/New Unity Project/Temp/UnityTempFile-fd9848efa19924b1c93240a2b1ee8806
+      ProjectPath: Temp/UnityTempFile-fd9848efa19924b1c93240a2b1ee8806
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/__Backupscenes/0.backup
+      FullPath: /Users/azabu04/New Unity Project/Temp/__Backupscenes/0.backup
+      ProjectPath: Temp/__Backupscenes/0.backup
+      OriginalPath: 
+      Status: 3
+      Staged: 0
   - CommitID: f8e2141c69162c364ca6cbf19f2b9608a2bd0340
     MergeA: 
     MergeB: 

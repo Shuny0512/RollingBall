@@ -14,6 +14,8 @@ public class DeathObjectController : MonoBehaviour
 			hit.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;
 
 			GameOverController.ShowGameOverLabel ();
+
+
 		}
 	}
 }
